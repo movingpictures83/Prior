@@ -1,0 +1,2 @@
+Prefix plugins/Prior/example/
+Plugin Prior inputfile CD.rds outputfile PRIOR.rds
